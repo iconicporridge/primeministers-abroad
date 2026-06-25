@@ -2,13 +2,13 @@
   <div>
     <h2>Timeline</h2>
     <div class="timeline-bar">
-      <div v-for="(primeminister, index) in primeministers" :key="primeminister.name" :style="{ width: calculateBarWidth(primeminister), backgroundColor: index % 2 === 0 ? '#ffffff' : '#cccccc' }" :title="primeminister.name + ' (' + primeminister.enteredOffice + ' - ' + primeminister.leftOffice + ')' "></div>
+      <div v-for="(primeminister, index) in primeministers" :key="primeminister.name" :style="{ width: calculateBarWidth(primeminister), backgroundColor: index % 2 === 0 ? '#ffffff' : '#cccccc' }" :title="primeminister.name + ' (' + primeminister.enteredOffice + ' - ' + primeminister.leftOffice + ')' " @click="$emit('primeMinisterSelected', primeminister)"></div>
     </div>
   </div>
 </template>
 
 <script setup>
-import { ref, onMounted } from 'vue'
+import { ref } from 'vue'
 import primeministers from '../primeministers.json'
 
 const primeministersData = ref(primeministers)
@@ -31,10 +31,6 @@ function calculateBarWidth(primeminister) {
   const duration = leftDate - enteredDate
   return (duration / totalDuration()) * 100 + '%'
 }
-
-onMounted(() => {
-  console.log(primeministersData.value)
-})
 </script>
 
 <style scoped>

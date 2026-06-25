@@ -9,9 +9,14 @@
 </template>
 
 <script setup>
-import { ref } from 'vue'
-import primeministers from '../primeministers.json'
-const primeminister = ref(primeministers[0])
+import { defineProps } from 'vue'
+
+const { primeminister } = defineProps({
+  primeminister: {
+    type: Object,
+    required: true
+  }
+})
 </script>
 
 <style scoped>
