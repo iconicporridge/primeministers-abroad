@@ -1,7 +1,9 @@
 <script setup>
-import HelloWorld from './components/HelloWorld.vue'
+import Primeminister from './components/Primeminister.vue'
+import Timeline from './components/Timeline.vue'
 </script>
 
 <template>
-  <HelloWorld />
+  <Primeminister />
+  <Timeline />
 </template>

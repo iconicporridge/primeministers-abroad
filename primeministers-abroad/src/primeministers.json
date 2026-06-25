@@ -1,0 +1,65 @@
+[
+  {
+    "name": "John Major",
+    "enteredOffice": "1990-11-28",
+    "leftOffice": "1997-05-02",
+    "ukDescription": "John Major was a British politician who served as Prime Minister of the United Kingdom from 1990 to 1997.",
+    "foreignPerspectives": []
+  },
+  {
+    "name": "Tony Blair",
+    "enteredOffice": "1997-05-02",
+    "leftOffice": "2007-06-27",
+    "ukDescription": "Tony Blair was a British politician who served as Prime Minister of the United Kingdom from 1997 to 2007.",
+    "foreignPerspectives": []
+  },
+  {
+    "name": "Gordon Brown",
+    "enteredOffice": "2007-06-27",
+    "leftOffice": "2010-05-11",
+    "ukDescription": "Gordon Brown was a British politician who served as Prime Minister of the United Kingdom from 2007 to 2010.",
+    "foreignPerspectives": []
+  },
+  {
+    "name": "David Cameron",
+    "enteredOffice": "2010-05-11",
+    "leftOffice": "2016-07-13",
+    "ukDescription": "David Cameron was a British politician who served as Prime Minister of the United Kingdom from 2010 to 2016.",
+    "foreignPerspectives": []
+  },
+  {
+    "name": "Theresa May",
+    "enteredOffice": "2016-07-13",
+    "leftOffice": "2019-07-24",
+    "ukDescription": "Theresa May was a British politician who served as Prime Minister of the United Kingdom from 2016 to 2019.",
+    "foreignPerspectives": []
+  },
+  {
+    "name": "Boris Johnson",
+    "enteredOffice": "2019-07-24",
+    "leftOffice": "2022-09-06",
+    "ukDescription": "Boris Johnson was a British politician who served as Prime Minister of the United Kingdom from 2019 to 2022.",
+    "foreignPerspectives": []
+  },
+  {
+    "name": "Liz Truss",
+    "enteredOffice": "2022-09-06",
+    "leftOffice": "2022-10-25",
+    "ukDescription": "Liz Truss was a British politician who served as Prime Minister of the United Kingdom from 2022.",
+    "foreignPerspectives": []
+  },
+  {
+    "name": "Rishi Sunak",
+    "enteredOffice": "2022-10-25",
+    "leftOffice": "2024-07-01",
+    "ukDescription": "Rishi Sunak is a British politician who served as Prime Minister of the United Kingdom from 2022 to 2024.",
+    "foreignPerspectives": []
+  },
+  {
+    "name": "Keir Starmer",
+    "enteredOffice": "2024-07-01",
+    "leftOffice": "present",
+    "ukDescription": "Keir Starmer is a British politician who has served as Prime Minister of the United Kingdom since 2024.",
+    "foreignPerspectives": []
+  }
+]
