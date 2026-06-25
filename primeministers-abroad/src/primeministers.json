@@ -4,7 +4,9 @@
     "enteredOffice": "1990-11-28",
     "leftOffice": "1997-05-02",
     "ukDescription": "John Major was a British politician who served as Prime Minister of the United Kingdom from 1990 to 1997.",
-    "foreignPerspectives": [],
+    "foreignPerspectives": [
+      "John Major was a trainspotter in his youth and still maintains an interest in railways."
+    ],
     "image": "https://en.wikipedia.org/wiki/List_of_prime_ministers_of_the_United_Kingdom#/media/File:John_Major.jpg"
   },
   {
@@ -12,7 +14,9 @@
     "enteredOffice": "1997-05-02",
     "leftOffice": "2007-06-27",
     "ukDescription": "Tony Blair was a British politician who served as Prime Minister of the United Kingdom from 1997 to 2007.",
-    "foreignPerspectives": [],
+    "foreignPerspectives": [
+      "Tony Blair is a well-known name in Kosovo, where 'Tonibler' is a common male given name."
+    ],
     "image": "https://en.wikipedia.org/wiki/Tony_Blair#/media/File:Tony_Blair_in_2002.jpg"
   },
   {
@@ -20,7 +24,9 @@
     "enteredOffice": "2007-06-27",
     "leftOffice": "2010-05-11",
     "ukDescription": "Gordon Brown was a British politician who served as Prime Minister of the United Kingdom from 2007 to 2010.",
-    "foreignPerspectives": [],
+    "foreignPerspectives": [
+      "Gordon Brown was a talented tennis player and was even considered for a professional career."
+    ],
     "image": "https://en.wikipedia.org/wiki/Gordon_Brown#/media/File:Gordon_Brown_official.jpg"
   },
   {
@@ -28,7 +34,9 @@
     "enteredOffice": "2010-05-11",
     "leftOffice": "2016-07-13",
     "ukDescription": "David Cameron was a British politician who served as Prime Minister of the United Kingdom from 2010 to 2016.",
-    "foreignPerspectives": [],
+    "foreignPerspectives": [
+      "David Cameron is a descendant of King William IV and is related to the British royal family."
+    ],
     "image": "https://en.wikipedia.org/wiki/David_Cameron#/media/File:David_Cameron_official_portrait_%28cropped%29.jpg"
   },
   {
@@ -36,7 +44,9 @@
     "enteredOffice": "2016-07-13",
     "leftOffice": "2019-07-24",
     "ukDescription": "Theresa May was a British politician who served as Prime Minister of the United Kingdom from 2016 to 2019.",
-    "foreignPerspectives": [],
+    "foreignPerspectives": [
+      "Theresa May is a type 1 diabetic and has been open about her experiences with the condition."
+    ],
     "image": "https://en.wikipedia.org/wiki/Theresa_May#/media/File:Theresa_May_Official.jpg"
   },
   {
@@ -44,7 +54,9 @@
     "enteredOffice": "2019-07-24",
     "leftOffice": "2022-09-06",
     "ukDescription": "Boris Johnson was a British politician who served as Prime Minister of the United Kingdom from 2019 to 2022.",
-    "foreignPerspectives": [],
+    "foreignPerspectives": [
+      "Boris Johnson was born in New York City and holds dual American and British citizenship."
+    ],
     "image": "https://en.wikipedia.org/wiki/Boris_Johnson#/media/File:Boris_Johnson_official_portrait.jpg"
   },
   {
@@ -52,7 +64,9 @@
     "enteredOffice": "2022-09-06",
     "leftOffice": "2022-10-25",
     "ukDescription": "Liz Truss was a British politician who served as Prime Minister of the United Kingdom from 2022.",
-    "foreignPerspectives": [],
+    "foreignPerspectives": [
+      "Liz Truss was a libertarian and a member of the Liberal Democrats before joining the Conservative Party."
+    ],
     "image": "https://en.wikipedia.org/wiki/Liz_Truss#/media/File:Official_portrait_of_Liz_Truss_%283x4_cropped%29.jpg"
   },
   {
@@ -60,7 +74,9 @@
     "enteredOffice": "2022-10-25",
     "leftOffice": "2024-07-01",
     "ukDescription": "Rishi Sunak is a British politician who served as Prime Minister of the United Kingdom from 2022 to 2024.",
-    "foreignPerspectives": [],
+    "foreignPerspectives": [
+      "Rishi Sunak is a teetotaler and does not drink alcohol."
+    ],
     "image": "https://en.wikipedia.org/wiki/Rishi_Sunak#/media/File:Rishi_Sunak_official_portrait.jpg"
   },
   {
@@ -68,7 +84,9 @@
     "enteredOffice": "2024-07-01",
     "leftOffice": "present",
     "ukDescription": "Keir Starmer is a British politician who has served as Prime Minister of the United Kingdom since 2024.",
-    "foreignPerspectives": [],
+    "foreignPerspectives": [
+      "Keir Starmer is a former human rights lawyer and was the Director of Public Prosecutions before entering politics."
+    ],
     "image": "https://en.wikipedia.org/wiki/Keir_Starmer#/media/File:Keir_Starmer_official_portrait.jpg"
   }
 ]

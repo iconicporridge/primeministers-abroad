@@ -12,6 +12,6 @@ function updatePrimeminister(primeminister) {
 </script>
 
 <template>
-  <Primeminister :primeminister="selectedPrimeminister" />
+  <Primeminister :primeminister="selectedPrimeminister" class="container" />
   <Timeline @primeMinisterSelected="updatePrimeminister" />
 </template>
